@@ -1,0 +1,5 @@
+{
+  "name": "TermTrace",
+  "description": "An AI-powered tool to extract obligations, deadlines, and renewal terms from legal contracts for a specific party, generating structured data and calendar feeds.",
+  "requestFramePermissions": []
+}
